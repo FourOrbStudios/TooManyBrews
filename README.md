@@ -84,10 +84,10 @@ Do any of the following actions as many times as you would like.
 * Cards and effects labeled Reaction Must be played on your opponents turns.
 * Whenever a card or ability is played, the opposing player gets the first opportunity to react, followed by the player who played the card/ability. If an additional card/ability is played, the newer ability is resolved first.
 * If an effect says to put a unit (not a card) onto the field,  this unit must be represented by a token. Treat this unit as a card for as long as it is on the field, once it leaves the field it ceases to exist.
-* Political Section
-* This section covers my issues with CCGs in a bit more detail, and discusses the conceptual pillars Too Many Brews is built with.
+# Political Section
+This section covers my issues with CCGs in a bit more detail, and discusses the conceptual pillars Too Many Brews is built with.
 
-# Problems With Collectible Card Games
+## Problems With Collectible Card Games
 * Pay to play and pay to compete models inherently block out mass populations from being able to experience and play these games.
 * Power creep is inherently relied upon as a method to extract value from current fans.
 * Modern CCGs rely on whaling for a large portion of income, which usually works by limiting specific features of your game to the ultra wealthy.
@@ -97,7 +97,7 @@ Do any of the following actions as many times as you would like.
 * Modern CCGs often rely on randomness to create viral moments, often at the detriment of both player experience and the game as a whole.
 * Physical CCGs produce a massive amount of waste by producing an excess of junk cards.
 
-# Conceptual Pillars For Too Many Brews
+## Conceptual Pillars For Too Many Brews
 * Players can print and play, or if we make a digital version, it will have full modding so players can add their own cards and art.
 * Every card is a proxy. There is no “real” card.
 * Every card must be unambiguous regardless of if custom art is used.
@@ -105,7 +105,7 @@ Do any of the following actions as many times as you would like.
 * Every card is a rare if you want it be.
 * The system allows for people to create their own cards and formats.
 
-# Tangible Game Design Pillars
+## Tangible Game Design Pillars
 * The game will use a copyleft viral license to protect itself from the scourge of capitalism.
 * 2 Win conditions.
 * Decks are shared together. Sharing is caring.
@@ -115,7 +115,7 @@ Do any of the following actions as many times as you would like.
 * Spells are split into Action and Reaction speed, such that no cards are strictly better.
 * Every permanent effect has health to avoid unpleasant mechanics.
 
-# Card Design Philosophy
+## Card Design Philosophy
 The philosophy I applied to making cards that I’d recommend people follow when making their own cards for a consistent game feel.
 * Card name and art must be visually distinct enough to be determined from a glance.
 * Design for fun, flavour, and interaction above all else.
