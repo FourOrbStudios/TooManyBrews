@@ -10,7 +10,7 @@ Both players bring a 40 card deck, these are shuffled together at the start of t
 
 There are 6 preconstructed decks of which you can print and play at home to get started. I’ve also provided images such that you can play on Tabletop Simulator.  After that its up to you, find cards you love and build a deck with them.
 
-I've built a card generator so you can make your own cards, and look through all 80+ cards I designed during the Jam: https://github.com/FourOrbStudios/TooManyBrews
+I've built a card generator so you can make your own cards, and look through all 80+ cards I designed during the Jam: https://github.com/FourOrbStudios/TooManyBrews. Should work out of the box with python, it takes from  db.csv to generate cards, and takes card art from the icon directory.
 
 # Meet the decks:
 **Bonkers**
