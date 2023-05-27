@@ -14,18 +14,23 @@ I've built a card generator so you can make your own cards, and look through all
 
 # Meet the decks:
 Bonkers
+
 Bonkers are big rascals, this deck is full of massive units.
 
 Tokens
+
 The token deck is full of ways to make lots and lots of little units. Filled with synergies to pump out tokens, and destroy your opponent's tokens.
 
 Tricks
+
 This deck is all about tricks, this is the deck built to have a spell war, there's always a reason to keep mana up.
 
 Control
+
 Value is the name of the game with control. Balancing cards and mana usage is the key to out maneuver your opponent on the battlefield with this deck.
 
 Junk One & Junk Two
+
 The beauty of sharing a deck with your opponent is you can bring whatever you want to the table, in this case, these junk decks each have 40 unique cards in them. Finding synergies may be a needle in a haystack, but it’s a haystack your opponent is also digging through.
 
 
