@@ -30,98 +30,101 @@ The beauty of sharing a deck with your opponent is you can bring whatever you wa
 
 
 
-Setup
-Shuffle two 40 card decks and place the 80 card deck in the center of the table.
-Players Decide who is going first.
-Both players draw 7 cards.
-Start the game. The player who goes first only draws one card and can only play one mana source on their first turn.
-Playing The Game
+# Setup
+* Shuffle two 40 card decks and place the 80 card deck in the center of the table.
+* Players Decide who is going first.
+* Both players draw 7 cards.
+* Start the game. The player who goes first only draws one card and can only play one mana source on their first turn.
+
+# Playing The Game
 A turn consists of five phases.
 
-Start of turn
-Resolve any start of turn effects.
-Untap all units.
-Draw 2 cards.
-Play up to 2 cards from your hand face down as mana sources.
-Actions
+## Start of turn
+* Resolve any start of turn effects.
+* Untap all units.
+* Draw 2 cards.
+* Play up to 2 cards from your hand face down as mana sources.
+
+
+## Actions
 Do any of the following actions as many times as you would like.
+* Play cards from your hand by paying their mana cost and resolving their effects.
+* Activate abilities on cards you control.
+* To end this step, declare the start of questing.
 
-Play cards from your hand by paying their mana cost and resolving their effects.
-Activate abilities on cards you control.
-To end this step, declare the start of questing.
+## Questing
+* Declare the start of questing.
+* (Choose attackers step) Choose any number of units you control and target them at either an opponent's units, buildings, or the deck (questing).
+* (Declare blockers step) Any unit not being attacked can be placed in front of an attacking unit, these units will fight instead of the targeted unit.
+* Each unit will deal damage to each other equal to their power. Any unit that takes more damage than its health dies and is placed in the discard.
+* If at least one unit was not blocked from questing, take a card from the top of the deck and place it in your treasure pile. If you have three treasure cards, you win the game.
 
-Questing
-Declare the start of questing.
-(Choose attackers step) Choose any number of units you control and target them at either an opponent's units, buildings, or the deck (questing).
-(Declare blockers step) Any unit not being attacked can be placed in front of an attacking unit, these units will fight instead of the targeted unit.
-Each unit will deal damage to each other equal to their power. Any unit that takes more damage than its health dies and is placed in the discard.
-If at least one unit was not blocked from questing, take a card from the top of the deck and place it in your treasure pile. If you have three treasure cards, you win the game.
-Actions
+## Actions
 Do any of the following actions as many times as you would like.
+* Play cards from your hand by paying their mana cost and resolving their effects.
+* Activate abilities on cards you control.
+* To end this step, declare the end of turn.
 
-Play cards from your hand by paying their mana cost and resolving their effects..
-Activate abilities on cards you control.
-To end this step, declare the end of turn.
+## End of turn
+* Resolve any end of turn effects.
+* Remove any unspent mana.
+* Restore each unit and building to full health.
 
-End of turn
-Resolve any end of turn effects.
-Remove any unspent mana.
-Restore each unit and building to full health.
-Additional rules:
-Once a player has gained 3 treasure cards, the game ends and that player is declared the winner.
-If a player would take a treasure card, but is unable to due to the deck being out of cards, that player wins the game.
-If a player would draw a card but is unable to due to the deck being out of cards, that player loses.
-Any permanent card that takes more damage than its health is destroyed, and placed in the discard.
-Cards and effects labeled Action must be played on your turn.
-Cards and effects labeled Reaction Must be played on your opponents turns.
-Whenever a card or ability is played, the opposing player gets the first opportunity to react, followed by the player who played the card/ability. If an additional card/ability is played, the newer ability is resolved first.
-If an effect says to put a unit (not a card) onto the field,  this unit must be represented by a token. Treat this unit as a card for as long as it is on the field, once it leaves the field it ceases to exist.
-Political Section
-This section covers my issues with CCGs in a bit more detail, and discusses the conceptual pillars Too Many Brews is built with.
+## Additional rules:
+* Once a player has gained 3 treasure cards, the game ends and that player is declared the winner.
+* If a player would take a treasure card, but is unable to due to the deck being out of cards, that player wins the game.
+* If a player would draw a card but is unable to due to the deck being out of cards, that player loses.
+* Any permanent card that takes more damage than its health is destroyed, and placed in the discard.
+* Cards and effects labeled Action must be played on your turn.
+* Cards and effects labeled Reaction Must be played on your opponents turns.
+* Whenever a card or ability is played, the opposing player gets the first opportunity to react, followed by the player who played the card/ability. If an additional card/ability is played, the newer ability is resolved first.
+* If an effect says to put a unit (not a card) onto the field,  this unit must be represented by a token. Treat this unit as a card for as long as it is on the field, once it leaves the field it ceases to exist.
+* Political Section
+* This section covers my issues with CCGs in a bit more detail, and discusses the conceptual pillars Too Many Brews is built with.
 
-Problems With Collectible Card Games
+# Problems With Collectible Card Games
+* Pay to play and pay to compete models inherently block out mass populations from being able to experience and play these games.
+* Power creep is inherently relied upon as a method to extract value from current fans.
+* Modern CCGs rely on whaling for a large portion of income, which usually works by limiting specific features of your game to the ultra wealthy.
+* Due to secondary markets, cards are treated as investments and often traded in unregulated markets, allowing for fraud, collusion, and other nasty business.
+* They use gachapon-style luck based systems (loot boxes, card packs etc) to get players addicted and obscure the value of items.
+* They often target these gambling features to kids who aren’t in a position to identify these predatory tactics.
+* Modern CCGs often rely on randomness to create viral moments, often at the detriment of both player experience and the game as a whole.
+* Physical CCGs produce a massive amount of waste by producing an excess of junk cards.
 
-Pay to play and pay to compete models inherently block out mass populations from being able to experience and play these games.
-Power creep is inherently relied upon as a method to extract value from current fans.
-Modern CCGs rely on whaling for a large portion of income, which usually works by limiting specific features of your game to the ultra wealthy.
-Due to secondary markets, cards are treated as investments and often traded in unregulated markets, allowing for fraud, collusion, and other nasty business.
-They use gachapon-style luck based systems (loot boxes, card packs etc) to get players addicted and obscure the value of items.
-They often target these gambling features to kids who aren’t in a position to identify these predatory tactics.
-Modern CCGs often rely on randomness to create viral moments, often at the detriment of both player experience and the game as a whole.
-Physical CCGs produce a massive amount of waste by producing an excess of junk cards.
-Conceptual Pillars For Too Many Brews
+# Conceptual Pillars For Too Many Brews
+* Players can print and play, or if we make a digital version, it will have full modding so players can add their own cards and art.
+* Every card is a proxy. There is no “real” card.
+* Every card must be unambiguous regardless of if custom art is used.
+* The only secondary market would be for custom proxies, special art etc.
+* Every card is a rare if you want it be.
+* The system allows for people to create their own cards and formats.
 
-Players can print and play, or if we make a digital version, it will have full modding so players can add their own cards and art.
-Every card is a proxy. There is no “real” card.
-Every card must be unambiguous regardless of if custom art is used.
-The only secondary market would be for custom proxies, special art etc.
-Every card is a rare if you want it be.
-The system allows for people to create their own cards and formats.
-Tangible Game Design Pillars
+# Tangible Game Design Pillars
+* The game will use a copyleft viral license to protect itself from the scourge of capitalism.
+* 2 Win conditions.
+* Decks are shared together. Sharing is caring.
+* No randomness other than card draw. No searching, no shuffling.
+* Balanced such that going second is neither an advantage or disadvantage.
+* Mana is inbuilt to provide more consistent fun.
+* Spells are split into Action and Reaction speed, such that no cards are strictly better.
+* Every permanent effect has health to avoid unpleasant mechanics.
 
-The game will use a copyleft viral license to protect itself from the scourge of capitalism.
-2 Win conditions.
-Decks are shared together. Sharing is caring.
-No randomness other than card draw. No searching, no shuffling.
-Balanced such that going second is neither an advantage or disadvantage.
-Mana is inbuilt to provide more consistent fun.
-Spells are split into Action and Reaction speed, such that no cards are strictly better.
-Every permanent effect has health to avoid unpleasant mechanics.
-Card Design Philosophy
+# Card Design Philosophy
 The philosophy I applied to making cards that I’d recommend people follow when making their own cards for a consistent game feel.
+* Card name and art must be visually distinct enough to be determined from a glance.
+* Design for fun, flavour, and interaction above all else.
+* Cards should be intuitive enough that a card is understood from the first read, providing the player knows the keywords mentioned on the card.
+* Try to stick to the approximate power curve guideline. 1 mana = 1.5 Attack and health.
+* Use mana reduction effects over mana cheating effects for anything under 5 mana.
+* Avoid making a better version of a card that already exists. If you think another card needs a change, leave a comment on that card in the card repository.
+* Add flavour text where possible.
+* Make sure no part of any designed card (Name, text, art, symbols), infringes upon the copyright or intellectual property of any privately owned assets.
+* The current font in use is Maybe Next by Khurasan, found here https://fontesk.com/maybe-next-font/.
+* If you need a hand making cards, the code I used for generating these cards is also open source (GPL3) at https://github.com/FourOrbStudios/TooManyBrews.
 
-Card name and art must be visually distinct enough to be determined from a glance.
-Design for fun, flavour, and interaction above all else.
-Cards should be intuitive enough that a card is understood from the first read, providing the player knows the keywords mentioned on the card.
-Try to stick to the approximate power curve guideline. 1 mana = 1.5 Attack and health.
-Use mana reduction effects over mana cheating effects for anything under 5 mana.
-Avoid making a better version of a card that already exists. If you think another card needs a change, leave a comment on that card in the card repository.
-Add flavour text where possible.
-Make sure no part of any designed card (Name, text, art, symbols), infringes upon the copyright or intellectual property of any privately owned assets.
-The current font in use is Maybe Next by Khurasan, found here https://fontesk.com/maybe-next-font/.
-If you need a hand making cards, the code I used for generating these cards is also open source (GPL3) at https://github.com/FourOrbStudios/TooManyBrews.
-Deckbuilding
-For now, a deck is made up of 40 cards, with a maximum of 3 of any one card.
+# Deckbuilding
+* For now, a deck is made up of 40 cards, with a maximum of 3 of any one card.
 
 Future plans: Long term plan is to split the cardbase up into factions and make decks out of 20 from one faction (your main faction), and 10 from two other factions (allied factions). You can have up to 3 of the same card from your main faction. You can have up to 2 of the same card from your allied faction. I’m also considering making the second faction be limited to 1 of each card in your third faction.
 
